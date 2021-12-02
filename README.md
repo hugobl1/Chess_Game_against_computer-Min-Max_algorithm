@@ -4,7 +4,7 @@ Jeu d’échecs:  Il s’agit dans ce projet de réaliser un jeu  d’échecs pe
 
 Notice d’utilisation:
 Pour lancer le jeu d’échec, il suffit de compiler le main.cpp (il inclut tous les .h
-associées au sujet). Ensuite vous verrez une sortie de l’ordinateur qui demande
+associées au sujet). Ensuite vous verrez une sortie terminal demandant
 la couleur que vous souhaitez jouer. Il faudra entrer le mot Blanc pour jouer
 les blancs et Noir pour jouer les noirs. Ensuite, lorsqu’il faudra déplacer les
 pièces, les entrées suivantes sont attendues : lettre entre a et h pour la colonne
