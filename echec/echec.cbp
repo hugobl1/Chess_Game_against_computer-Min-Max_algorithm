@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="echec" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/echec" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/echec" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/coup.h" />
+		<Unit filename="include/echiquier.h" />
+		<Unit filename="include/piece.h" />
+		<Unit filename="include/position.h" />
+		<Unit filename="include/position_echec.h" />
+		<Unit filename="include/type_piece.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/coup.cpp" />
+		<Unit filename="src/echiquier.cpp" />
+		<Unit filename="src/piece.cpp" />
+		<Unit filename="src/position.cpp" />
+		<Unit filename="src/position_echec.cpp" />
+		<Unit filename="src/type_piece.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

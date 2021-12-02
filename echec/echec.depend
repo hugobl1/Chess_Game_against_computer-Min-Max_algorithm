@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1616009482 source:c:\users\33628\desktop\sim201\echec\main.cpp
+	<iostream>
+	"echiquier.h"
+	"position_echec.h"
+
+1611840059 source:c:\users\33628\desktop\sim201\echec\src\type_piece.cpp
+	"type_piece.h"
+
+1615459584 c:\users\33628\desktop\sim201\echec\include\type_piece.h
+	<vector>
+
+1615993657 source:c:\users\33628\desktop\sim201\echec\src\piece.cpp
+	"piece.h"
+	"echiquier.h"
+
+1613048198 c:\users\33628\desktop\sim201\echec\include\piece.h
+	"type_piece.h"
+
+1615382260 source:c:\users\33628\desktop\sim201\echec\src\coup.cpp
+	"coup.h"
+
+1616006018 c:\users\33628\desktop\sim201\echec\include\coup.h
+	"piece.h"
+
+1616006615 c:\users\33628\desktop\sim201\echec\include\echiquier.h
+	"piece.h"
+	"coup.h"
+	<iostream>
+	<vector>
+
+1615991382 source:c:\users\33628\desktop\sim201\echec\src\echiquier.cpp
+	"echiquier.h"
+
+1612217136 source:c:\users\33628\desktop\sim201\echec\src\position.cpp
+	"position.h"
+
+1614849578 c:\users\33628\desktop\sim201\echec\include\position.h
+	<stdlib.h>
+
+1616011183 source:c:\users\33628\desktop\sim201\echec\src\position_echec.cpp
+	"position_echec.h"
+	"math.h"
+	<limits>
+
+1615995024 c:\users\33628\desktop\sim201\echec\include\position_echec.h
+	<vector>
+	"echiquier.h"
+
+1616026751 source:c:\users\33628\desktop\sim202\echec\main.cpp
+	<iostream>
+	"echiquier.h"
+	"position_echec.h"
+
+1616006615 c:\users\33628\desktop\sim202\echec\include\echiquier.h
+	"piece.h"
+	"coup.h"
+	<iostream>
+	<vector>
+
+1613048198 c:\users\33628\desktop\sim202\echec\include\piece.h
+	"type_piece.h"
+
+1615459584 c:\users\33628\desktop\sim202\echec\include\type_piece.h
+	<vector>
+
+1616006018 c:\users\33628\desktop\sim202\echec\include\coup.h
+	"piece.h"
+
+1615995024 c:\users\33628\desktop\sim202\echec\include\position_echec.h
+	<vector>
+	"echiquier.h"
+
+1615382260 source:c:\users\33628\desktop\sim202\echec\src\coup.cpp
+	"coup.h"
+
+1615991382 source:c:\users\33628\desktop\sim202\echec\src\echiquier.cpp
+	"echiquier.h"
+
+1615993657 source:c:\users\33628\desktop\sim202\echec\src\piece.cpp
+	"piece.h"
+	"echiquier.h"
+
+1612217136 source:c:\users\33628\desktop\sim202\echec\src\position.cpp
+	"position.h"
+
+1614849578 c:\users\33628\desktop\sim202\echec\include\position.h
+	<stdlib.h>
+
+1616011183 source:c:\users\33628\desktop\sim202\echec\src\position_echec.cpp
+	"position_echec.h"
+	"math.h"
+	<limits>
+
+1611840059 source:c:\users\33628\desktop\sim202\echec\src\type_piece.cpp
+	"type_piece.h"
+
