@@ -10,8 +10,13 @@ les blancs et Noir pour jouer les noirs. Ensuite, lorsqu’il faudra déplacer l
 pièces, les entrées suivantes sont attendues : lettre entre a et h pour la colonne
 dans laquelle se trouve la pièce à déplacer, entier entre 1 et 8 pour la ligne, puis
 la même chose pour indiquer la pièce où se trouvera la pièce.
+
 Exemple :
+
 • e
+
 • 2
+
 • e
+
 • 4
